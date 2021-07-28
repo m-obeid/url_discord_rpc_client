@@ -1,0 +1,7 @@
+C:\Users\POCOGuy\source\repos\Discord\obj\Debug\Discord.csproj.AssemblyReference.cache
+C:\Users\POCOGuy\source\repos\Discord\obj\Debug\Discord.csproj.CoreCompileInputs.cache
+C:\Users\POCOGuy\source\repos\Discord\bin\Debug\DiscordRPC.exe.config
+C:\Users\POCOGuy\source\repos\Discord\bin\Debug\DiscordRPC.exe
+C:\Users\POCOGuy\source\repos\Discord\bin\Debug\DiscordRPC.pdb
+C:\Users\POCOGuy\source\repos\Discord\obj\Debug\DiscordRPC.exe
+C:\Users\POCOGuy\source\repos\Discord\obj\Debug\DiscordRPC.pdb
